@@ -275,6 +275,8 @@ Finally, it is interesting to point out how this return-sorted strategy has (in 
 In this case, we created different quintiles based on the average returns of the last 12 months. This strategy differs from the previous one (i.e. monthly based return sorted), because the average return of one year is less sensitive to monthly perfomances. Therefore, the same companies can be found more often in the same quintiles.
 Once again, market-value weighted portfolios have better perfomances compared to equally weighted ones in the majority of the quintiles. Therefore, the market sizes help to drive up the returns.
 
+<p align="center"><img src="https://drive.google.com/uc?id=1uwQXKiZEVjcGqBx5dpZUVXWKDqEGWbBF" width="400"/></p>
+
 ```
 *** Equally Weighted Portfolio ***
 Return of the strategy: -0.006469398338391247
