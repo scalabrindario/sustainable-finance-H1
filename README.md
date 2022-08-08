@@ -293,3 +293,6 @@ Also in this case, we can remark that short-selling is not profitable since in t
 - [Filippo Trapanese](https://www.linkedin.com/in/https://www.linkedin.com/in/filippo-trapanese-2729b3206/)
 - [Massimo Poretti](https://www.linkedin.com/in/poretti-massimo/)
 - [Soukaynah El Maliki](https://www.linkedin.com/in/soukaynah-el-maliki-63b7b71aa/)
+
+## License 
+[MIT](https://choosealicense.com/licenses/mit/)
