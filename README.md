@@ -286,3 +286,10 @@ Return of the strategy: -0.004654537174045931
 ```
 
 Also in this case, we can remark that short-selling is not profitable since in the last years (i.e. time horizon taken into account) the markets have always increased, and this is also shown in the exercise #6, when we considered the MSCI Emerging Markets Index.
+
+
+## Collaborators
+- [Dario Scalabrin](https://www.linkedin.com/in/scalabrindario/)
+- [Filippo Trapanese](https://www.linkedin.com/in/https://www.linkedin.com/in/filippo-trapanese-2729b3206/)
+- [Massimo Poretti](https://www.linkedin.com/in/poretti-massimo/)
+- [Soukaynah El Maliki](https://www.linkedin.com/in/soukaynah-el-maliki-63b7b71aa/)
